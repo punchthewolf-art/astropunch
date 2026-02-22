@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "title": "AstroPunch - What does the universe say about your career?",
+    "description": "Get a fun, AI-powered astro-punch reading based on your birth date"
+  },
+  "header": {
+    "title": "AstroPunch",
+    "tagline": "What does the universe say about your career?"
+  },
+  "hero": {
+    "title": "Discover Your",
+    "titleGradient": "Cosmic Career Path",
+    "subtitle": "Enter your birth date and let the stars reveal your professional destiny. Fun, personalized, and surprisingly accurate.",
+    "cta": "Read My Stars"
+  },
+  "form": {
+    "birthdate": "Your Birth Date",
+    "birthdatePlaceholder": "Select your birth date",
+    "cv": "Upload your CV (optional)",
+    "cvHint": "PDF only - for a more personalized reading",
+    "cvUploaded": "CV uploaded",
+    "analyze": "Reveal My Cosmic Path",
+    "analyzing": "Consulting the stars..."
+  },
+  "result": {
+    "title": "Your Cosmic Career Reading",
+    "sign": "Your Career Sign",
+    "ascendant": "Career Ascendant",
+    "cosmicScore": "Cosmic Score",
+    "powers": "Cosmic Super-Powers",
+    "traps": "Planetary Traps",
+    "prediction": "2026 Career Prediction",
+    "compatibleJobs": "Perfect Jobs For You",
+    "avoidJobs": "Jobs to Avoid",
+    "premium": "Unlock Full Report",
+    "premiumDesc": "Get the complete astro-punch analysis with personalized advice, detailed career chart, and PDF download",
+    "premiumPrice": "4.99",
+    "premiumCta": "Get Premium Report",
+    "share": "Share My Reading",
+    "shareTwitter": "Share on X",
+    "shareLinkedIn": "Share on LinkedIn",
+    "newReading": "New Reading",
+    "freeLabel": "Free",
+    "premiumLabel": "Premium"
+  },
+  "features": {
+    "title": "What You'll Discover",
+    "f1title": "Career Sign",
+    "f1desc": "Your unique astrological career profile based on celestial alignments",
+    "f2title": "Super-Powers",
+    "f2desc": "3 cosmic professional strengths the universe has gifted you",
+    "f3title": "2026 Prediction",
+    "f3desc": "What the stars have in store for your career this year",
+    "f4title": "Job Compatibility",
+    "f4desc": "Which careers align with your cosmic energy"
+  },
+  "footer": {
+    "alsoTry": "Also try",
+    "madeWith": "Made with cosmic energy by Punch Ventures",
+    "legal": "For entertainment purposes only"
+  }
+}

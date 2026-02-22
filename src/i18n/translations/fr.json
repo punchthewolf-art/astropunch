@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "title": "AstroPunch - Que dit l'univers sur ta carriere ?",
+    "description": "Obtiens une lecture astro-punch fun et personnalisee par IA"
+  },
+  "header": {
+    "title": "AstroPunch",
+    "tagline": "Que dit l'univers sur ta carriere ?"
+  },
+  "hero": {
+    "title": "Decouvre Ton",
+    "titleGradient": "Destin Cosmique Pro",
+    "subtitle": "Entre ta date de naissance et laisse les etoiles reveler ta destinee professionnelle. Fun, personnalise, et etonnamment precis.",
+    "cta": "Lire Mes Etoiles"
+  },
+  "form": {
+    "birthdate": "Ta date de naissance",
+    "birthdatePlaceholder": "Selectionne ta date de naissance",
+    "cv": "Upload ton CV (optionnel)",
+    "cvHint": "PDF uniquement - pour une lecture plus personnalisee",
+    "cvUploaded": "CV uploade",
+    "analyze": "Reveler Mon Destin Cosmique",
+    "analyzing": "Consultation des astres..."
+  },
+  "result": {
+    "title": "Ta Lecture Astro-Punch",
+    "sign": "Ton Signe Carriere",
+    "ascendant": "Ascendant Carriere",
+    "cosmicScore": "Score Cosmique",
+    "powers": "Super-Pouvoirs Cosmiques",
+    "traps": "Pieges Planetaires",
+    "prediction": "Prediction Carriere 2026",
+    "compatibleJobs": "Jobs Parfaits Pour Toi",
+    "avoidJobs": "Jobs a Eviter",
+    "premium": "Debloquer le Rapport Complet",
+    "premiumDesc": "Obtiens l'analyse astro-punch complete avec conseils personnalises, theme astral detaille et telechargement PDF",
+    "premiumPrice": "4.99",
+    "premiumCta": "Obtenir le Rapport Premium",
+    "share": "Partager Ma Lecture",
+    "shareTwitter": "Partager sur X",
+    "shareLinkedIn": "Partager sur LinkedIn",
+    "newReading": "Nouvelle Lecture",
+    "freeLabel": "Gratuit",
+    "premiumLabel": "Premium"
+  },
+  "features": {
+    "title": "Ce Que Tu Vas Decouvrir",
+    "f1title": "Signe Carriere",
+    "f1desc": "Ton profil astrologique professionnel unique base sur les alignements celestes",
+    "f2title": "Super-Pouvoirs",
+    "f2desc": "3 forces professionnelles cosmiques que l'univers t'a offertes",
+    "f3title": "Prediction 2026",
+    "f3desc": "Ce que les etoiles reservent a ta carriere cette annee",
+    "f4title": "Compatibilite Jobs",
+    "f4desc": "Quelles carrieres s'alignent avec ton energie cosmique"
+  },
+  "footer": {
+    "alsoTry": "Essaye aussi",
+    "madeWith": "Fait avec de l'energie cosmique par Punch Ventures",
+    "legal": "A des fins de divertissement uniquement"
+  }
+}
