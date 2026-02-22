@@ -54,6 +54,18 @@
     "f4title": "Compatibilite Jobs",
     "f4desc": "Quelles carrieres s'alignent avec ton energie cosmique"
   },
+  "pricing": {
+    "title": "Simple & Transparent",
+    "freeTitle": "Lecture Gratuite",
+    "freePrice": "0\u20AC",
+    "freeFeatures": ["Signe carriere", "Score cosmique", "3 super-pouvoirs", "Prediction 2026"],
+    "freeCta": "C'est inclus !",
+    "premiumTitle": "Rapport Premium",
+    "premiumPrice": "4,99\u20AC",
+    "premiumOnce": "paiement unique",
+    "premiumFeatures": ["Tout le gratuit +", "Analyse astrale complete", "Conseils personnalises", "Telechargement PDF"],
+    "premiumCta": "Disponible apres analyse"
+  },
   "footer": {
     "alsoTry": "Essaye aussi",
     "madeWith": "Fait avec de l'energie cosmique par Punch Ventures",

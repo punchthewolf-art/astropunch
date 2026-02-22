@@ -4,10 +4,10 @@ import { useLanguage } from "@/i18n/LanguageContext";
 export default function Footer() {
   const { t } = useLanguage();
   const links = [
-    { name: "RoastMyResume", url: "https://www.roastmyresume.pro" },
-    { name: "CopyPunch", url: "https://www.copypunch.pro" },
-    { name: "SkillPunch", url: "https://www.skillpunch.pro" },
-    { name: "GraphoPunch", url: "https://www.graphopunch.pro" },
+    { name: "RoastMyResume", url: "https://roastmyresume.pro" },
+    { name: "CopyPunch", url: "https://copypunch.pro" },
+    { name: "SkillPunch", url: "https://skillpunch.pro" },
+    { name: "GraphoPunch", url: "https://graphopunch.pro" },
   ];
   return (
     <footer className="w-full px-6 py-8 border-t border-white/10 mt-20">

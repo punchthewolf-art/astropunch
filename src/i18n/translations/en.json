@@ -54,6 +54,18 @@
     "f4title": "Job Compatibility",
     "f4desc": "Which careers align with your cosmic energy"
   },
+  "pricing": {
+    "title": "Simple & Transparent",
+    "freeTitle": "Free Reading",
+    "freePrice": "\u20AC0",
+    "freeFeatures": ["Career sign", "Cosmic score", "3 super-powers", "2026 prediction"],
+    "freeCta": "Included!",
+    "premiumTitle": "Premium Report",
+    "premiumPrice": "\u20AC4.99",
+    "premiumOnce": "one-time payment",
+    "premiumFeatures": ["Everything free +", "Full astral analysis", "Personalized advice", "PDF download"],
+    "premiumCta": "Available after analysis"
+  },
   "footer": {
     "alsoTry": "Also try",
     "madeWith": "Made with cosmic energy by Punch Ventures",

@@ -98,6 +98,40 @@ export default function Home() {
                   </div>
                 ))}
               </motion.div>
+
+              {/* Pricing Section */}
+              <motion.div initial={{ y: 30, opacity: 0 }} animate={{ y: 0, opacity: 1 }} transition={{ delay: 0.8 }} className="mt-20 mb-8">
+                <h2 className="text-3xl font-bold text-center mb-10">{t("pricing.title")}</h2>
+                <div className="grid md:grid-cols-2 gap-6 max-w-2xl mx-auto">
+                  <div className="glass rounded-2xl p-6 border border-white/10">
+                    <h3 className="text-lg font-bold mb-1">{t("pricing.freeTitle")}</h3>
+                    <p className="text-3xl font-black gradient-text mb-4">{t("pricing.freePrice")}</p>
+                    <ul className="space-y-2 mb-6">
+                      {(t("pricing.freeFeatures") as unknown as string[]).map((f: string, i: number) => (
+                        <li key={i} className="flex items-center gap-2 text-sm text-gray-300">
+                          <span className="text-green-400">{"\u2713"}</span> {f}
+                        </li>
+                      ))}
+                    </ul>
+                    <p className="text-xs text-gray-500 text-center">{t("pricing.freeCta")}</p>
+                  </div>
+                  <div className="glass rounded-2xl p-6 border border-purple-500/50 glow-purple relative">
+                    <div className="absolute -top-3 left-1/2 -translate-x-1/2 bg-gradient-to-r from-purple-600 to-pink-600 text-xs font-bold px-3 py-1 rounded-full">PREMIUM</div>
+                    <h3 className="text-lg font-bold mb-1 mt-2">{t("pricing.premiumTitle")}</h3>
+                    <p className="text-3xl font-black gradient-text mb-1">{t("pricing.premiumPrice")}</p>
+                    <p className="text-xs text-gray-500 mb-4">{t("pricing.premiumOnce")}</p>
+                    <ul className="space-y-2 mb-6">
+                      {(t("pricing.premiumFeatures") as unknown as string[]).map((f: string, i: number) => (
+                        <li key={i} className="flex items-center gap-2 text-sm text-gray-300">
+                          <span className="text-purple-400">{"\u2713"}</span> {f}
+                        </li>
+                      ))}
+                    </ul>
+                    <p className="text-xs text-gray-500 text-center">{t("pricing.premiumCta")}</p>
+                  </div>
+                </div>
+              </motion.div>
+
             </motion.div>
           ) : (
             <motion.div key="result" initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }} className="max-w-3xl mx-auto px-6 py-16">
