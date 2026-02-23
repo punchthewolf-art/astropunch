@@ -11,6 +11,7 @@
   "dependencies": {
     "@anthropic-ai/sdk": "^0.78.0",
     "@stripe/stripe-js": "^8.8.0",
+    "@vercel/analytics": "^1.6.1",
     "framer-motion": "^12.34.3",
     "next": "16.1.6",
     "react": "19.2.3",
